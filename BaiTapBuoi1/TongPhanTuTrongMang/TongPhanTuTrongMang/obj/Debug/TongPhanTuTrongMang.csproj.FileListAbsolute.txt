@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\TongPhanTuTrongMang\TongPhanTuTrongMang\bin\Debug\TongPhanTuTrongMang.exe.config
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\TongPhanTuTrongMang\TongPhanTuTrongMang\bin\Debug\TongPhanTuTrongMang.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\TongPhanTuTrongMang\TongPhanTuTrongMang\bin\Debug\TongPhanTuTrongMang.pdb
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\TongPhanTuTrongMang\TongPhanTuTrongMang\obj\Debug\TongPhanTuTrongMang.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\TongPhanTuTrongMang\TongPhanTuTrongMang\obj\Debug\TongPhanTuTrongMang.pdb

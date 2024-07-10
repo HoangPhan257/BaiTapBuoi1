@@ -1,0 +1,5 @@
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\NhanHaiSoNguyenLon\Nhan2SoNguyen\Nhan2SoNguyen\bin\Debug\Nhan2SoNguyen.exe.config
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\NhanHaiSoNguyenLon\Nhan2SoNguyen\Nhan2SoNguyen\bin\Debug\Nhan2SoNguyen.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\NhanHaiSoNguyenLon\Nhan2SoNguyen\Nhan2SoNguyen\bin\Debug\Nhan2SoNguyen.pdb
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\NhanHaiSoNguyenLon\Nhan2SoNguyen\Nhan2SoNguyen\obj\Debug\Nhan2SoNguyen.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\NhanHaiSoNguyenLon\Nhan2SoNguyen\Nhan2SoNguyen\obj\Debug\Nhan2SoNguyen.pdb

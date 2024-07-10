@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\Mergasort\BTMergasort\BTMergasort\bin\Debug\BTMergasort.exe.config
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\Mergasort\BTMergasort\BTMergasort\obj\Debug\BTMergasort.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\Mergasort\BTMergasort\BTMergasort\bin\Debug\BTMergasort.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\Mergasort\BTMergasort\BTMergasort\bin\Debug\BTMergasort.pdb
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\Mergasort\BTMergasort\BTMergasort\obj\Debug\BTMergasort.exe
+E:\LuuDuLieuSinhVien\2033210433_PhanThanhHoang\BaiTapBuoi1\Mergasort\BTMergasort\BTMergasort\obj\Debug\BTMergasort.pdb
